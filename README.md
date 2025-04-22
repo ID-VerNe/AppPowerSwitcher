@@ -44,7 +44,7 @@ App Power Switcher 是一个 Windows 操作系统上的后台应用程序，它�
     ```bash
     pip install -r requirements.txt
     ```
-    （`requirements.txt` 将在下一节提供）
+
 
 ### 配置
 
